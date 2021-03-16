@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, my name is Md. Ishraf Islam
+I am from Dhaka, Bangladesh.
+Currently I am working on a small personal project that will track your income and expense.
+Will create both web and mobile application for the project.
+
+Wish me luck :)
 
 <!--
 **ishraftaifur/ishraftaifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
